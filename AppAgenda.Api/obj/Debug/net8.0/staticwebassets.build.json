@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "O/IRfv0UV9bVETWhpKuygFSxrRq3d4kzbr6m5fQxm2w=",
+  "Source": "AppAgenda.Api",
+  "BasePath": "_content/AppAgenda.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

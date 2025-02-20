@@ -1,0 +1,11 @@
+C:\Users\LENOVO-CORE I5\Desktop\IATEC\AppAgenda.Domain\bin\Debug\net6.0\AppAgenda.Domain.deps.json
+C:\Users\LENOVO-CORE I5\Desktop\IATEC\AppAgenda.Domain\bin\Debug\net6.0\AppAgenda.Domain.dll
+C:\Users\LENOVO-CORE I5\Desktop\IATEC\AppAgenda.Domain\bin\Debug\net6.0\AppAgenda.Domain.pdb
+C:\Users\LENOVO-CORE I5\Desktop\IATEC\AppAgenda.Domain\obj\Debug\net6.0\AppAgenda.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO-CORE I5\Desktop\IATEC\AppAgenda.Domain\obj\Debug\net6.0\AppAgenda.Domain.AssemblyInfoInputs.cache
+C:\Users\LENOVO-CORE I5\Desktop\IATEC\AppAgenda.Domain\obj\Debug\net6.0\AppAgenda.Domain.AssemblyInfo.cs
+C:\Users\LENOVO-CORE I5\Desktop\IATEC\AppAgenda.Domain\obj\Debug\net6.0\AppAgenda.Domain.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO-CORE I5\Desktop\IATEC\AppAgenda.Domain\obj\Debug\net6.0\AppAgenda.Domain.dll
+C:\Users\LENOVO-CORE I5\Desktop\IATEC\AppAgenda.Domain\obj\Debug\net6.0\refint\AppAgenda.Domain.dll
+C:\Users\LENOVO-CORE I5\Desktop\IATEC\AppAgenda.Domain\obj\Debug\net6.0\AppAgenda.Domain.pdb
+C:\Users\LENOVO-CORE I5\Desktop\IATEC\AppAgenda.Domain\obj\Debug\net6.0\ref\AppAgenda.Domain.dll
